@@ -13,10 +13,10 @@ public class Score {
 		this.subjectScore = subjectScore;
 	}
 
-	@Override
-	public String toString() {
-		return "학번:" + stuId + ", " + subject.subjectName + ":" + subjectScore;
-	}
+//	@Override
+//	public String toString() {
+//		return "학번:" + stuId + ", " + subject.subjectName + ":" + subjectScore;
+//	}
 	
 	
 	

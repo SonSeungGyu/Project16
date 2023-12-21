@@ -16,6 +16,7 @@ public class Student {
 		this.name = name;
 	}
 	
+	//듣는 수업의 점수를 저장해줄 리스트에 각 점수들을 넣어주는 메소드
 	public void addSubjectScore(Score score) {
 		scoreList.add(score);
 	}
